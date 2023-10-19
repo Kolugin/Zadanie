@@ -1,0 +1,2 @@
+C:\Users\Kolugin\source\repos\Library1\obj\Debug\Library1.csproj.AssemblyReference.cache
+C:\Users\Kolugin\source\repos\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
